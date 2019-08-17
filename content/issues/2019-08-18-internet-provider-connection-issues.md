@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Internet Provider Connection Issues
+title: ISP Connection Issues
 date: 2019-08-14T16:53:00.000Z
 resolved: true
 resolvedWhen: 2019-08-14T21:56:00.000Z
