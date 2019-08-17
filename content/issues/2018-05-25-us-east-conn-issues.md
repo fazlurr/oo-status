@@ -1,19 +1,17 @@
 ---
-title: US East Connection Issues
-date: 2018-05-25 04:13:00
+section: issue
+title: Internet Provider Connection Issues
+date: 2019-08-14T16:53:00.000Z
 resolved: true
-resolvedWhen: 2018-05-25 04:13:59
-# Possible severity levels: down, disrupted, notice
-severity: down
+resolvedWhen: 2019-08-14T21:56:00.000Z
 affected:
   - API
   - Media Proxy
-section: issue
+severity: down
 ---
+_Resolved_ -
+We believe all users experiencing issues have been able to connect at this time. {{< track "2019-08-15 04:56:00" >}}
 
-*Resolved* -
-We believe all users experiencing issues have been able to connect at this time. {{< track "2018-05-25 05:54:00" >}}
+_Monitoring_ - We believe the connectivity issues are being caused by DigitalOcean DNS Resolution Issues {{< track "2019-08-14 23:58:00" >}}
 
-*Monitoring* - We believe the connectivity issues are being caused by an isolated ISP issue. We've had reports that swapping to Google DNS servers (see here; https://developers.google.com/speed/public-dns/docs/using) resolves the problem for users. {{< track "2018-05-25 04:40:00" >}}
-
-*Investigating* - We're aware of reports that users are experiencing connection issues on the East coast of the United States. We're currently investigating these issues, and apologize for any inconvenience it may be causing you. {{< track "2018-05-25 04:13:00" >}}
+_Investigating_ - We're aware of reports that users are experiencing connection issues when using some internet service providers (ISP). We're currently investigating these issues, and apologize for any inconvenience it may be causing you. {{< track "2019-08-14 23:54:00" >}}
