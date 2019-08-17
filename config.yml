@@ -6,7 +6,7 @@ baseURL: 'https://oo-status.netlify.com'
 params:
   alwaysKeepBrandColor: true
   autoRefresh: true
-  brand: 0a0c0f
+  brand: '181818'
   dateFormat: '2 January, 2006 at 3:04 PM'
   description: >-
     We continuously monitor the status of our services and if there are any
