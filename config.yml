@@ -17,7 +17,7 @@ params:
   incidentPostsPerPage: 10
   logo: /img/orderonline.png
   notice: 24478f
-  ok: 008000
+  ok: 8dc63f
   shortDateFormat: '15:04 — 2 Jan'
   systems:
     - description: Where users login and manage their products and orders
