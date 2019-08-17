@@ -21,13 +21,15 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   systems:
     - description: Where users login and manage their products and orders
-      name: App
+      name: APP
     - description: The guts of the application.
       name: API
     - description: >-
         This is the service responsible for serving js, images, audio, and
         video. Using AWS CloudFront
       name: CDN
+    - description: ''
+      name: Checkout Pages
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
